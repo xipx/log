@@ -41,3 +41,6 @@ log('start', 'myStyle');
 log.disable();
 log('end');
 ```
+And the logs look like this.
+
+![screenshot](https://raw.githubusercontent.com/xipx/log/master/screeshot.png)
