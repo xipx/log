@@ -5,8 +5,8 @@ Read 'Usage' section for more details.
 ##Features
 
 * Easy to write
-* Enable and disable on demand
-* Set a color or style for logging
+* `Enable` and `disable` logging on demand
+* Set a **color** or **style** for logging
 
 
 ##Usage
