@@ -1,10 +1,12 @@
-This is a simple library created for replacing the default `console.log()`.
+This is a tiny library which provide your a more easier way for logging. It's a wrapper function of the original `console.log()`.
+Read 'Usage' section for more details.
+
 
 ##Features
 
 * Easy to write
 * Enable and disable on demand
-* set a color or style for log
+* Set a color or style for logging
 
 
 ##Usage
